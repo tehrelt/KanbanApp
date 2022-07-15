@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KanbanApp", "KanbanApp\KanbanApp.vcxproj", "{789E153B-9AD4-400C-9B33-AC79D0939FD7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KanbanConsole", "KanbanConsole\KanbanConsole.vcxproj", "{EDFEB552-645D-4AF4-99AD-B82C0E383B06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{789E153B-9AD4-400C-9B33-AC79D0939FD7}.Debug|x64.ActiveCfg = Debug|x64
+		{789E153B-9AD4-400C-9B33-AC79D0939FD7}.Debug|x64.Build.0 = Debug|x64
+		{789E153B-9AD4-400C-9B33-AC79D0939FD7}.Debug|x86.ActiveCfg = Debug|Win32
+		{789E153B-9AD4-400C-9B33-AC79D0939FD7}.Debug|x86.Build.0 = Debug|Win32
+		{789E153B-9AD4-400C-9B33-AC79D0939FD7}.Release|x64.ActiveCfg = Release|x64
+		{789E153B-9AD4-400C-9B33-AC79D0939FD7}.Release|x64.Build.0 = Release|x64
+		{789E153B-9AD4-400C-9B33-AC79D0939FD7}.Release|x86.ActiveCfg = Release|Win32
+		{789E153B-9AD4-400C-9B33-AC79D0939FD7}.Release|x86.Build.0 = Release|Win32
+		{EDFEB552-645D-4AF4-99AD-B82C0E383B06}.Debug|x64.ActiveCfg = Debug|x64
+		{EDFEB552-645D-4AF4-99AD-B82C0E383B06}.Debug|x64.Build.0 = Debug|x64
+		{EDFEB552-645D-4AF4-99AD-B82C0E383B06}.Debug|x86.ActiveCfg = Debug|Win32
+		{EDFEB552-645D-4AF4-99AD-B82C0E383B06}.Debug|x86.Build.0 = Debug|Win32
+		{EDFEB552-645D-4AF4-99AD-B82C0E383B06}.Release|x64.ActiveCfg = Release|x64
+		{EDFEB552-645D-4AF4-99AD-B82C0E383B06}.Release|x64.Build.0 = Release|x64
+		{EDFEB552-645D-4AF4-99AD-B82C0E383B06}.Release|x86.ActiveCfg = Release|Win32
+		{EDFEB552-645D-4AF4-99AD-B82C0E383B06}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30785719-A0B0-475B-88BE-B31913B70661}
+	EndGlobalSection
+EndGlobal
